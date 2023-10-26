@@ -1,0 +1,17 @@
+.mainContainer {
+  align-items: center; /* Vertically centers content */
+  justify-content: center; /* Horizontally centers content */
+  margin: auto;
+}
+
+.login {
+  background-color: #42187F;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.login:hover {
+  background-color: #6d24dc;
+  padding: 10px 22px;
+}

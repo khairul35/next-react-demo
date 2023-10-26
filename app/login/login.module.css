@@ -1,0 +1,5 @@
+.mainContainer {
+  align-items: center; /* Vertically centers content */
+  justify-content: center; /* Horizontally centers content */
+  margin: auto;
+}

@@ -1,0 +1,8 @@
+.mainContainer {
+  align-items: center; /* Vertically centers content */
+  justify-content: center; /* Horizontally centers content */
+  padding: 20px 60px;
+  overflow-x: auto;
+  margin: auto;
+  width: 100%;
+}
